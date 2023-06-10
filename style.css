@@ -1,0 +1,96 @@
+@import url("https://fonts.googleapis.com/css?family=Inter:400");
+
+.global-container {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #48e248;
+}
+
+.login-form {
+  width: 380px;
+  height: 450px;
+  padding: 20px;
+  background-color: #1a2226 !important;
+  border-radius: 10px !important;
+}
+
+
+
+
+.form-label{
+  margin-left: 19px;
+  margin-top: 50px;
+  font-size: medium;
+}
+#isi-barcode{
+  margin-left: 13px;
+  width: 350px;
+}
+
+.form-barang{
+  margin-left: 30px;
+}
+
+#kotak-nama{
+  margin-left: 25px;
+  width: 350px;
+}
+
+.form-harga{
+  margin-left: 10px;
+  margin-top: 80px;
+}
+
+#kotak-harga{
+  margin-left: 10px;
+  width: 350px;
+}
+
+.form-stok{
+  margin-left: 10px;
+  margin-top: 80px;
+}
+
+#kotak-stok{
+  width: 350px;
+}
+
+.form-total{
+  margin-left: 180px;
+  margin-top: 50px;
+}
+
+.square{
+  height: 100px;
+  background-color: #ffffff;
+  width: 350px;
+  margin-left: 180px;
+  border-radius: 10px;
+}
+
+#buttonBayar{
+  margin-left: -50px;
+}
+
+
+#form-email{
+   color: white;
+   margin-right: 50px;
+}
+#form-pw{
+  color: white;
+}
+
+.card-title{
+  color: #1d7a00;
+}
+
+.square-price {
+    font-size: 54px;
+    font-weight: bold;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+  }
